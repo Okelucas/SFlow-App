@@ -1,5 +1,0 @@
-streamlit
-sqlite3
-streamlit_lottie
-pandas
-requests
