@@ -1,8 +1,8 @@
-pip install streamlit
-pip install sqlite3
-pip install streamlit_lottie
-pip install pandas
-pip install requests
+#pip install streamlit
+#pip install sqlite3
+#pip install streamlit_lottie
+#pip install pandas
+#pip install requests
 
 import streamlit as st
 import sqlite3
