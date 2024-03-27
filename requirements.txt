@@ -1,4 +1,5 @@
-pip install streamlit
-pip install st-gsheets-connection
-pip install firebase-admin
-pip install SQLAchemy
+streamlit
+sqlite3
+streamlit_lottie
+pandas
+requests
